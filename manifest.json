@@ -1,6 +1,6 @@
 {
-  "name": "이식혈관외과 랜덤 질문야마 퀴즈",
-  "short_name": "이식혈관외과 질야 퀴즈",
+  "name": "혈관외과 랜덤 질문야마 퀴즈",
+  "short_name": "혈관외과 질야 퀴즈",
   "start_url": "./index.html?v=5",
   "display": "standalone",
   "background_color": "#ffffff",
